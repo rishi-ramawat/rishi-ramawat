@@ -28,11 +28,6 @@ Most of my work lives in private and internal repositories, so this profile is n
 a good sample of it. What is public is mostly a Udacity nanodegree I finished years
 before any of the above, kept around because deleting things is rarely useful.
 
-The one worth a look:
-
-- 🐘 **[laravel-postgresql-inherit](https://github.com/rishi-ramawat/laravel-postgresql-inherit)**
-  - a Laravel package that adds PostgreSQL table inheritance to migrations
-
 ### 🔗 Elsewhere
 
 - 💼 [LinkedIn](https://in.linkedin.com/in/rishiramawat)
