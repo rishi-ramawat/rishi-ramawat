@@ -1,29 +1,38 @@
 ## Rishi Ramawat
 
-Backend engineer in Bengaluru, ten years in. I work on high-throughput distributed
-systems where failure is expensive: currently checkout, loyalty and rewards
-infrastructure at Razorpay, mostly in Go.
+Backend engineer in Bengaluru, ten years in. High-throughput distributed systems
+where failure is expensive: currently checkout, loyalty and rewards infrastructure
+at Razorpay, mostly in Go.
 
-Most of what I do falls into three buckets. Pulling services out of monoliths
-without downtime. Making systems observable enough that being on-call is boring.
-And finding out where the database is quietly on fire.
+### 🔧 What I work on
 
-Lately I have been spending time on agentic engineering workflows: multi-agent
-planning harnesses, domain skills for code and test review, and the part most
-teams skip, which is how you evaluate agent output instead of just trusting it.
+- 🧱 **Taking monoliths apart** - pulling services out of live systems without
+  downtime, and finding the shared state that blocks everyone else from doing
+  the same
+- 📟 **Making on-call boring** - Prometheus and Grafana, alert design that people
+  trust, and the follow-up work nobody schedules
+- 🔥 **Databases that are quietly on fire** - slow queries, N+1 patterns, index
+  design, read replicas
+- ⚡ **Go services at scale** - gRPC, event-driven pipelines, and API design where
+  the latency budget is contractual rather than aspirational
 
-### About the repositories here
+### 🤖 What I have been building lately
 
-Most of my work is in private and internal repositories, so this profile is not a
-good sample of it. What is public is mostly from a Udacity nanodegree I finished
-some years before any of the above, kept around because deleting things is rarely
-useful.
+- 🧠 Multi-agent planning harnesses that engineering teams actually ship with
+- 🔍 Domain skills for automated code review and unit-test review
+- ✅ Evals for agent output, because "it looked right" is not a quality bar
 
-The exception is worth a look:
+### 📦 Public code
 
-- **[laravel-postgresql-inherit](https://github.com/rishi-ramawat/laravel-postgresql-inherit)**
-  - a Laravel package that adds PostgreSQL table inheritance to migrations.
+Most of my work lives in private and internal repositories, so this profile is not
+a good sample of it. What is public is mostly a Udacity nanodegree I finished years
+before any of the above, kept around because deleting things is rarely useful.
 
-### Elsewhere
+The one worth a look:
 
-- LinkedIn: [in/rishiramawat](https://in.linkedin.com/in/rishiramawat)
+- 🐘 **[laravel-postgresql-inherit](https://github.com/rishi-ramawat/laravel-postgresql-inherit)**
+  - a Laravel package that adds PostgreSQL table inheritance to migrations
+
+### 🔗 Elsewhere
+
+- 💼 [LinkedIn](https://in.linkedin.com/in/rishiramawat)
